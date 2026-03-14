@@ -1,5 +1,4 @@
-package metodosespeciais;
-
+package metodosEspeciasi;
 public class Moldecaneta2 {
     private String modelo;
     private float ponta;

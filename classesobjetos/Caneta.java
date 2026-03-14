@@ -1,3 +1,4 @@
+package classesobjetos;
 public class Caneta {
     public static void main(String[] args) {
         Moldecaneta c1 = new Moldecaneta();
