@@ -1,4 +1,4 @@
-package metodosEspeciasi;
+package metodosespeciais;
 
 public class Moldecaneta2 {
     private String modelo;
